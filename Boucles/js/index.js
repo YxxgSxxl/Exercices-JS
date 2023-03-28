@@ -1,0 +1,1 @@
+let valeur = document.querySelector("section.chiffres.flex div.gros").innerText;
